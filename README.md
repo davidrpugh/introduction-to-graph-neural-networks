@@ -10,10 +10,9 @@ The primary learning objective of this course is to provide students with practi
 
 This course covers relevant portions of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312). The following topics will be discussed.
 
-* Convolutional Neural Networks (CNNs)  
-* Autoencoders
-* Generative Adversarial Networks (GANs)
-* Diffusion Models
+* Basic ideas of Convolutional Neural Networks (CNNs)
+* Basis ideas of Graph Neural Networks (GNNs)
+* Applications of GNNs
 
 ## Lessons
 
@@ -23,7 +22,7 @@ The lessons are organizes into modules with the idea that they can taught somewh
 
 Materials should be completed prior to arriving at any in-person training.
 
-### Module 1: [Introduction to GNNs]()
+### Module 1: [Introduction to GNNs](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EUFMLrIgoptFk3iG0IJOwsUBFMjEmqldB5WnEqZwUilKmg?e=JZF5ST)
 
 * Review of Deep Learning fundamentals.  
 * The morning session will focus on the theory behind Graph Neural Networks (GNNs) by covering relevant portions of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
